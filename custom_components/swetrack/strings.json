@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "SweTrack",
+        "description": "Enter your SweTrack API bearer token.",
+        "data": {
+          "token": "Bearer token",
+          "base_url": "Base URL"
+        }
+      }
+    },
+    "error": {
+      "auth": "Authentication failed. Check your token.",
+      "unknown": "Unexpected error."
+    }
+  }
+}

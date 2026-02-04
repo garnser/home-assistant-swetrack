@@ -1,0 +1,10 @@
+{
+  "domain": "swetrack",
+  "name": "SweTrack",
+  "codeowners": ["@garnser"],
+  "config_flow": true,
+  "documentation": "https://apidoc.swetrack.com/tracking/swetrack/restapi/",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}
